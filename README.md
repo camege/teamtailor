@@ -4,8 +4,8 @@ A simple web page that creates a report when the user clicks on "download teamta
 
 ## Install dependencies
 
-npm install
+```npm install```
 
 ## Run app
 
-APITOKEN = <YOUR_TOKEN_HERE> node app.js
+```APITOKEN = <YOUR_TOKEN_HERE> node app.js```
